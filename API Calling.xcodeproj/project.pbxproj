@@ -11,7 +11,7 @@
 		3F00CFA225EC10120061CBD3 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F00CFA125EC10120061CBD3 /* ContentView.swift */; };
 		3F00CFA425EC10180061CBD3 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F00CFA325EC10180061CBD3 /* Assets.xcassets */; };
 		3F00CFA725EC10180061CBD3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F00CFA625EC10180061CBD3 /* Preview Assets.xcassets */; };
-		3F00CFB025EC10680061CBD3 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F00CFAF25EC10680061CBD3 /* SwiftyJSON.swift */; };
+		3F6A8A19261C95D10069B667 /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F6A8A18261C95D10069B667 /* SwiftyJSON.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,7 +21,7 @@
 		3F00CFA325EC10180061CBD3 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F00CFA625EC10180061CBD3 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3F00CFA825EC10180061CBD3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		3F00CFAF25EC10680061CBD3 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SwiftyJSON.swift; path = "../../../../SwiftyJSON-master/Source/SwiftyJSON/SwiftyJSON.swift"; sourceTree = "<group>"; };
+		3F6A8A18261C95D10069B667 /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,7 +58,7 @@
 				3F00CFA125EC10120061CBD3 /* ContentView.swift */,
 				3F00CFA325EC10180061CBD3 /* Assets.xcassets */,
 				3F00CFA825EC10180061CBD3 /* Info.plist */,
-				3F00CFAF25EC10680061CBD3 /* SwiftyJSON.swift */,
+				3F6A8A18261C95D10069B667 /* SwiftyJSON.swift */,
 				3F00CFA525EC10180061CBD3 /* Preview Content */,
 			);
 			path = "API Calling";
@@ -141,7 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3F00CFB025EC10680061CBD3 /* SwiftyJSON.swift in Sources */,
+				3F6A8A19261C95D10069B667 /* SwiftyJSON.swift in Sources */,
 				3F00CFA225EC10120061CBD3 /* ContentView.swift in Sources */,
 				3F00CFA025EC10120061CBD3 /* API_CallingApp.swift in Sources */,
 			);
